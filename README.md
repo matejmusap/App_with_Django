@@ -11,3 +11,5 @@ To start the app locally, run in blog_app:
 The app contains several files and folders:
 
 - blog_app - Project made by Django framework
+  - blog_app - Folder with configuration files
+- manage.py
