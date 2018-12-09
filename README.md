@@ -12,4 +12,6 @@ The app contains several files and folders:
 
 - blog_app - Project made by Django framework
   - blog_app - Folder with configuration files
+  -blog - Folder with blog app configuration files
+  -user - Folder with user app configuration files
 - manage.py
